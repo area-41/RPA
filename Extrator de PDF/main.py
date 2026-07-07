@@ -4,7 +4,8 @@ import matplotlib.pyplot as plt
 import io
 
 # Abrir um arquivo pdf
-nome_arquivo = 'exemplo_aula.pdf'
+#nome_arquivo = 'exemplo_aula.pdf'
+nome_arquivo = 'documento_treinamento_rpa.pdf'
 
 with pdfplumber.open(nome_arquivo) as pdf:
   paginas = pdf.pages
