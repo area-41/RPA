@@ -1,6 +1,3 @@
-# %pip install pdfplumber
-
-
 import pdfplumber
 from PIL import Image
 import matplotlib.pyplot as plt
