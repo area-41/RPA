@@ -1,0 +1,35 @@
+Pacote                         | Versão     | Tamanho em Disco
+--------------------------------------------------------------
+beautifulsoup4                 | 4.15.0     |     0.39 MB
+bs4                            | 0.0.2      |     0.00 MB
+certifi                        | 2026.6.17  |     0.23 MB
+cffi                           | 2.1.0      |     0.59 MB
+charset-normalizer             | 3.4.7      |     0.48 MB
+contourpy                      | 1.3.3      |     0.57 MB
+cryptography                   | 49.0.0     |     9.98 MB
+cycler                         | 0.12.1     |     0.02 MB
+et_xmlfile                     | 2.0.0      |     0.06 MB
+fonttools                      | 4.63.0     |    10.70 MB
+idna                           | 3.18       |     0.36 MB
+kiwisolver                     | 1.5.0      |     0.17 MB
+matplotlib                     | 3.11.0     |    22.16 MB
+numpy                          | 2.5.1      |    39.76 MB
+openpyxl                       | 3.1.5      |     0.82 MB
+packaging                      | 26.2       |     0.36 MB
+pandas                         | 3.0.3      |    33.77 MB
+pdfminer.six                   | 20260107   |     8.16 MB
+pdfplumber                     | 0.11.10    |     0.23 MB
+pillow                         | 12.3.0     |    14.08 MB
+pycparser                      | 3.0        |     0.19 MB
+pyparsing                      | 3.3.2      |     0.44 MB
+pypdfium2                      | 5.11.0     |     7.49 MB
+python-dateutil                | 2.9.0.post0 |     0.42 MB
+reportlab                      | 5.0.0      |     4.45 MB
+requests                       | 2.34.2     |     0.22 MB
+six                            | 1.17.0     |     0.04 MB
+soupsieve                      | 2.9        |     0.14 MB
+typing_extensions              | 4.16.0     |     0.17 MB
+tzdata                         | 2026.3     |     0.56 MB
+urllib3                        | 2.7.0      |     0.41 MB
+--------------------------------------------------------------
+TAMANHO TOTAL DO AMBIENTE:                    157.43 MB
