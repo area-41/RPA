@@ -55,6 +55,7 @@ A pasta está organizada nos seguintes scripts:
 * **[ReportLab](https://www.reportlab.com/):** Criação programática e estilização avançada de documentos PDF.
 * **[Pillow (PIL)](https://python-pillow.org/) & [Matplotlib](https://matplotlib.org/):** Manipulação, tratamento e visualização gráfica de fluxos de imagens extraídos dos documentos.
 * **[OpenPyXL / Pandas](https://pandas.pydata.org/):** Estruturação e consolidação dos dados para exportação no formato Excel (`.xlsx`).
+* **[uv](https://docs.astral.sh/uv/):** Gerenciador de pacotes e ambientes virtuais Python de alta performance para controle de dependências do projeto.
 
 ## Como Executar o Projeto
 
