@@ -1,12 +1,19 @@
 # Automatização de tarefas (RPA) usando Python
 
+[![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![uv](https://img.shields.io/badge/uv-Package_Manager-DE5B8B?style=flat&logo=python&logoColor=white)](https://github.com/astral-sh/uv)
+[![Selenium](https://img.shields.io/badge/Selenium-Browser_Automation-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Tesseract OCR](https://img.shields.io/badge/Tesseract-OCR-412991?style=flat&logo=tesseract&logoColor=white)](https://github.com/tesseract-ocr/tesseract)
+[![pdfplumber](https://img.shields.io/badge/pdfplumber-Data_Extraction-150458?style=flat)](https://github.com/jsvine/pdfplumber)
+[![ReportLab](https://img.shields.io/badge/ReportLab-PDF_Gen-FF6F00?style=flat)](https://www.reportlab.com/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ### RPA - Robotic Process Automation Portfolio & Modules
-🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖
+
 
 Uma coleção de módulos, scripts e automações focadas em **Robotic Process Automation (RPA)** e extração de dados utilizando ecossistema Python. Desde web scraping e navegação automatizada até automação de interface de usuário (GUI) e extração de dados via OCR (Reconhecimento Óptico de Caracteres).
 
-
+🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖
 ## Estrutura do Repositório
 
 ```text

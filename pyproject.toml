@@ -1,7 +1,7 @@
 [project]
 name = "rpa"
 version = "0.1.0"
-description = "Add your description here"
+description = "Uma coleção de módulos, scripts e automações focadas em Robotic Process Automation (RPA) e extração de dados utilizando ecossistema Python."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [

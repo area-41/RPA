@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = "https://quotes.toscrape.com/"
+url = "https://exemplo.com"
 
 # Acesso à página com o método GET
 try:
